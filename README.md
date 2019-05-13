@@ -3,4 +3,4 @@
 - Introduction to Multivariate Calculus 
 
 ## Assignments
-- Calculus (Solution)(Write up)
+- The Sandpit (Solution)(Write up)
