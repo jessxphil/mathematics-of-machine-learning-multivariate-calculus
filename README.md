@@ -3,6 +3,6 @@
 - Introduction to Multivariate Calculus 
 
 ## Assignments
-1. The Sandpit Part I (Solution)(Write up)
-2 - The Sandpit Part II (Solution)(Write up)
-3 | Back Propogation (Solution)(Write up)
+- The Sandpit Part I (Solution)(Write up)
+- The Sandpit Part II (Solution)(Write up)
+- Back Propogation (Solution)(Write up)
