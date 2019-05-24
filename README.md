@@ -6,4 +6,4 @@
 - The Sandpit Part I (Solution)(Write up)
 - The Sandpit Part II (Solution)(Write up)
 - Back Propogation (Solution)(Write up)
-- Fitting the distribution of heights data (Soln)(Write Up)
+- Fitting the distribution of heights data (Solution)(Write Up)
