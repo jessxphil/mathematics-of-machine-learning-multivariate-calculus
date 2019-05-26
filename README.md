@@ -5,4 +5,4 @@
 ## Assignments
 - The Sandpit Part I & The Sandpit Part II (Solution)(Write up)
 - Back Propogation (Solution)(Write up)
-- Fitting the distribution of heights data (Solution)(Write Up)
+- Fitting the Distribution of Heights Data (Solution)(Write Up)
