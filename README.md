@@ -4,5 +4,5 @@
 
 ## Assignments
 - The Sandpit Part I ([Solution](https://github.com/jessxphil/mathematics-of-machine-learning-multivariate-calculus/blob/master/assignment-1/the-sandpit-part-1.ipynb))(Write up) + The Sandpit Part II ([Solution](https://github.com/jessxphil/mathematics-of-machine-learning-multivariate-calculus/blob/master/assignment-1/the-sandpit-part-2.ipynb))(Write up)
-- Back Propogation (Solution)(Write up)
+- Back Propogation ([Solution](https://github.com/jessxphil/mathematics-of-machine-learning-multivariate-calculus/blob/master/assignment-2/i-heart-back-propagation.ipynb))(Write up)
 - Fitting the Distribution of Heights Data (Solution)(Write Up)
