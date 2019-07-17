@@ -1,5 +1,5 @@
 # Table of Contents
-Why learn Multi variate calc?
+Why learn Multi variate calc? Necessary for Machine learning. These repo's are in work in progress. 
 
 ## Lectures
 - Introduction to Multivariate Calculus 
