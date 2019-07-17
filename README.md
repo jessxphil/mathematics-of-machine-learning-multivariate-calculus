@@ -1,4 +1,6 @@
 # Table of Contents
+Why learn Multi variate calc?
+
 ## Lectures
 - Introduction to Multivariate Calculus 
 
