@@ -6,6 +6,13 @@ NOTE: This repository is for learning purposes only. Please follow the Coursera 
 ## Lectures
 - Introduction to Multivariate Calculus 
 
+* Week 1 = 
+
+* Week 2 = 
+
+* Week 3 = 
+
+* Week 4 = 
 
 
 ## Assignments
