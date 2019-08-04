@@ -1,6 +1,9 @@
 # Table of Contents
 NOTE: This repository is for learning purposes only. Please follow the Coursera honor code. I've posted the answers here with the intent that it helps with debugging your own code. I encourage you to utilize the discussion forums available via Coursera and use this repo to understand why your program isn't working as expected. Best of luck!
 
+<p align="center">
+  <img width="730" height="550" src="https://github.com/jessxphil/mathematics-of-machine-learning-multivariate-calculus/blob/master/image-ml-calc.png">
+</p>
 
 
 ## Lectures
