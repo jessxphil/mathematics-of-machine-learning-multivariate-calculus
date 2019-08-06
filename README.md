@@ -5,7 +5,7 @@ NOTE: This repository is for learning purposes only. Please follow the Coursera 
   <img width="730" height="550" src="https://github.com/jessxphil/mathematics-of-machine-learning-multivariate-calculus/blob/master/image-ml-calc.png">
 </p>
 
-Here's a peak into what you'll learn in the course! 
+Here's a peak into what you'll learn in the course! Understanding calculus is central to understanding machine learning. You can think of calculus as simply a set of tools for analysing the relationship between functions and their inputs. Often, in machine learning, we are trying to find the inputs which enable a function to best match the data.
 
 
 ## Objectives
