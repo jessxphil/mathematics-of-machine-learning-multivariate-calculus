@@ -9,7 +9,7 @@ Here's a peak into what you'll learn in the course! Understanding calculus is ce
 
 ## Objectives
 
-<b>Week 1:</b> Recall the definition of differentiation. Apply differentiation to simple functions. Describe the utility of time saving rules. Apply sum, product and chain rules
+<b>Week 1:</b> Recall the definition of differentiation. Apply differentiation to simple functions. Describe the utility of time saving rules. Apply sum, product and chain rule. 
 
 <b>Week 2:</b> 
 
