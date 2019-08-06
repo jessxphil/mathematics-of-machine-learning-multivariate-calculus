@@ -6,16 +6,16 @@ NOTE: This repository is for learning purposes only. Please follow the Coursera 
 </p>
 
 
-## Lectures
+## Objectives
 - Introduction to Multivariate Calculus 
 
-* Week 1 = 
+<b>Week 1:</b> 
 
-* Week 2 = 
+<b>Week 2:</b> 
 
-* Week 3 = 
+<b>Week 3:</b>
 
-* Week 4 = 
+<b>Week 4:</b>
 
 
 ## Assignments
