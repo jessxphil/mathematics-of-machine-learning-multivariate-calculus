@@ -5,6 +5,8 @@ NOTE: This repository is for learning purposes only. Please follow the Coursera 
   <img width="730" height="550" src="https://github.com/jessxphil/mathematics-of-machine-learning-multivariate-calculus/blob/master/image-ml-calc.png">
 </p>
 
+Here's a peak into what you'll learn in the course! 
+
 
 ## Objectives
 - Introduction to Multivariate Calculus 
