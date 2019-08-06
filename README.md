@@ -11,7 +11,7 @@ Here's a peak into what you'll learn in the course! Understanding calculus is ce
 
 <b>Week 1:</b> Recall the definition of differentiation. Apply differentiation to simple functions. Describe the utility of time saving rules. Apply sum, product and chain rule. 
 
-<b>Week 2:</b> 
+<b>Week 2:</b> Recognize that differentiation can be applied to multiple variables in an equation. Use multivariate calculus tools on example equations. Recognise the utility of vector/matrix structures in multivariate calculus. Examine two dimensional problems using the Jacobian. 
 
 <b>Week 3:</b>
 
