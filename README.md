@@ -13,12 +13,15 @@ Here's a peak into what you'll learn in the course! Understanding calculus is ce
 
 <b>Week 2:</b> Recognize that differentiation can be applied to multiple variables in an equation. Recognise the utility of vector/matrix structures in multivariate calculus. Examine 2D problems using the Jacobian. 
 
-<b>Week 3:</b> 
+<b>Week 3:</b> Apply the multivariate chain rule to differentiate nested functions. Explain the structure and function of a neural net. Apply multivariate calculate tools to relate network parameters to outputs. Implement backpropagation on a small neural network. 
 
 <b>Week 4:</b>
 
+<b>Week 5:</b>
+
 
 ## Assignments
-- The Sandpit Part I ([Solution](https://github.com/jessxphil/mathematics-of-machine-learning-multivariate-calculus/blob/master/assignment-1/the-sandpit-part-1.ipynb)) + The Sandpit Part II ([Solution](https://github.com/jessxphil/mathematics-of-machine-learning-multivariate-calculus/blob/master/assignment-1/the-sandpit-part-2.ipynb))
+- The Sandpit Part I ([Solution](https://github.com/jessxphil/mathematics-of-machine-learning-multivariate-calculus/blob/master/assignment-1/the-sandpit-part-1.ipynb))
+- The Sandpit Part II ([Solution](https://github.com/jessxphil/mathematics-of-machine-learning-multivariate-calculus/blob/master/assignment-1/the-sandpit-part-2.ipynb))
 - Back Propogation ([Solution](https://github.com/jessxphil/mathematics-of-machine-learning-multivariate-calculus/blob/master/assignment-2/i-heart-back-propagation.ipynb))
 - Fitting the Distribution of Heights Data ([Solution](https://github.com/jessxphil/mathematics-of-machine-learning-multivariate-calculus/blob/master/assignment-3/fitting-distribution-height-data.ipynb))
