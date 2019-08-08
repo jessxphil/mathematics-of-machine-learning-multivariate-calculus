@@ -15,7 +15,7 @@ Here's a peak into what you'll learn in the course! Understanding calculus is ce
 
 <b>Week 3:</b> Apply the multivariate chain rule to differentiate nested functions. Explain the structure and function of a neural net. Apply multivariate calculate tools to relate network parameters to outputs. Implement backpropagation on a small neural network. 
 
-<b>Week 4:</b>
+<b>Week 4:</b> Recognise power series approximations to functions. Interpret the behaviour of power series approximations for ill-behaved functions. Explain the meaning and relevance of linearization. Select appropriate representation of multivariate approximations. 
 
 <b>Week 5:</b>
 
