@@ -19,7 +19,7 @@ Here's a peak into what you'll learn in the course! Understanding calculus is ce
 
 <b>Week 5:</b> Recognize the principles of gradient descent. Implement optimisation using multivariate calculus. Examine cases where the method fails to return the best solution. Solve gradient descent problems that are subject to a constraints using Lagrange Multipliers. 
 
-<b>
+<b>Week 6:</b> Describe regression as a minimisation of errors problem. Distinguish appropriate from inappropriate models for particular data sets. Calculate multivariate calculus objects to perform a regression. Create code to fit a non-linear function to data using gradient descent
 
 
 ## Assignments
