@@ -13,9 +13,9 @@ Here's a peak into what you'll learn in the course! Understanding calculus is ce
 
 <b>Week 2:</b> Recognize that differentiation can be applied to multiple variables in an equation. Recognise the utility of vector/matrix structures in multivariate calculus. Examine 2D problems using the Jacobian. 
 
-<b>Week 3:</b> Apply the multivariate chain rule to differentiate nested functions. Explain the structure and function of a neural net. Apply multivariate calculate tools to relate network parameters to outputs. Implement backpropagation on a small neural network. 
+<b>Week 3:</b> Apply multivariate chain rule to differentiate nested functions. Explain structure and function of a neural net. Apply multivariate calculate tools to relate network parameters to outputs. Implement backpropagation on a small neural network. 
 
-<b>Week 4:</b> Recognise power series approximations to functions. Interpret the behaviour of power series approximations for ill-behaved functions. Explain the meaning and relevance of linearization. Select appropriate representation of multivariate approximations. 
+<b>Week 4:</b> Recognise power series approximations to functions. Interpret the behaviour of power series approximations for ill-behaved functions. Explain the meaning of linearization. Select appropriate representation of multivariate approximations. 
 
 <b>Week 5:</b> Recognize the principles of gradient descent. Implement optimisation using multivariate calculus. Examine cases where the method fails to return the best solution. Solve gradient descent problems that are subject to a constraints using Lagrange Multipliers. 
 
